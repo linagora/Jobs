@@ -2,10 +2,10 @@
 
 We are all located at Lyon, near Part-Dieu : 
 
-* @antduprat
-* @m_baechler
-* @s_colson
-* @t_hilaire
+* link:@antduprat.adoc[@antduprat]
+* link:@m_baechler.adoc[@m_baechler]
+* link:@s_colson.adoc[@s_colson]
+* link:@t_hilaire.adoc[@t_hilaire]
 
 === Technology used everyday
 
