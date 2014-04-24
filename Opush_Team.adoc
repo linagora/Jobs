@@ -7,6 +7,11 @@ We are all located at Lyon, near Part-Dieu :
 * link:@s_colson.adoc[@s_colson]
 * link:@t_hilaire.adoc[@t_hilaire]
 
+We work mostly on https://github.com/linagora/Opush[Opush], 
+a Free Software implementation of Microsoft Exchange ActiveSync protocol,
+the main way to synchronize your mails, agenda and contacts on your smartphone
+and your tablet.
+
 === Technology used everyday
 
 * https://cassandra.apache.org[+Cassandra+] and https://github.com/linagora/cassandra-unit[+cassandra-unit+]: Opush storage backend released in April 2014
