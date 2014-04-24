@@ -1,0 +1,24 @@
+Stéphane Colson
+=================
+
+== Software Quality Engineer @ Linagora
+
+* Quality Assurance (QA) leader of https://github.com/linagora/obm[OBM]
+* Working on free software for 3 years now, see OBM page on
+  https://www.ohloh.net/p/obm[Ohloh] and our http://obm.org/[Blog]
+* Agilist and working for software editors for more than 12 years
+
+
+== Meet me
+
+If you want to speak about anything related to software quality and open source, you can add a line below to ask for a chat and do a Pull Request!
+
+* From @you : should we meet in front of the popcorn machine to discuss about how to stop releasing bugs in my software ?
+
+Hint: I am also available for a direct contact via above social links
+
+== Social
+
+* https://twitter.com/s_colson[Twitter]
+* https://github.com/stephanecolson[Github]
+* http://lnkd.in/drNkQTP[Linkedin]
