@@ -1,4 +1,15 @@
 What is this repository about ?
-=====================
+==============================
 
+== Meet people doing Free Software
+
+If you do some software development, you probably use Free Software everyday.
+There are great communities around Free Software and maybe you'd like to
+know how to give back some well deserved contribution.
+
+At Linagora, we work on Free Software all day long and are always willing to
+share our experience.
+
+If you want to meet us, you can send a Pull Request on team member profile,
+we will be happy to meet you and share our love for Free Software.
 

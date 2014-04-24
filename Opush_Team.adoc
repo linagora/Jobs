@@ -1,0 +1,22 @@
+== Opush team
+
+We are all located at Lyon, near Part-Dieu : 
+
+* @antduprat
+* @m_baechler
+* @s_colson
+* @t_hilaire
+
+=== Technology used everyday
+
+* +Cassandra+ and +cassandra-unit+: Opush storage backend released in April 2014
+* +Assertj+: our tests are fluents and it rocks! We sometimes contribute to 
+  this project
+* +Asciidoc+: we prefer writing documentations without pain
+* +git+: Like everybody, right ?
+* +parboiled+: When we write parsers, we write them right
+
+=== Lastest news
+
+http://obm.org/blog/opush-3-release[Opush 3 release with Cassandra support]
+

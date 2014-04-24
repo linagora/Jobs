@@ -1,0 +1,30 @@
+Matthieu Baechler
+=================
+
+== Software Craftman @ Linagora
+
+* Team leader of https://github.com/linagora/opush[Opush] team
+* Software architect of https://github.com/linagora/OBM[OBM] team
+* Working on free software for 4 years now, see my profile on 
+  https://www.ohloh.net/accounts/matthieu_baechler[Ohloh]
+* Agilist and TDD addict for a long time
+
+== No bullshit
+
+Everything I write can be checked on the Internet because Free Software is about
+openness
+
+To see what my job is, have a look at the <<Opush_Team.adoc#,Opush Team Page>>
+
+== Meet me
+
+You can add a line to the list bellow to ask for a meeting and do a Pull Request!
+
+* From @BarackObama : can we meet after the conference "How to make better decisions" ?
+
+
+== Social
+
+* @m_baechler
+* github.com/mbaechler
+
