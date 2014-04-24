@@ -1,7 +1,7 @@
 Matthieu Baechler
 =================
 
-== Software Craftman @ Linagora
+== Software Craftsman @ Linagora
 
 * Team leader of https://github.com/linagora/opush[Opush] team
 * Software architect of https://github.com/linagora/OBM[OBM] team
@@ -14,7 +14,7 @@ Matthieu Baechler
 Everything I write can be checked on the Internet because Free Software is about
 openness
 
-To see what my job is, have a look at the <<Opush_Team.adoc#,Opush Team Page>>
+To see what my job looks like, have a look at link:Opush_Team.adoc[Opush Team]
 
 == Meet me
 
