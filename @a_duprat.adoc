@@ -3,7 +3,7 @@ Antoine Duprat
 
 == Developper @ Linagora
 
-* Developper on https://github.com/linagora/opush[Opush] team
+* Developper in https://github.com/linagora/opush[Opush] team
 * Working on free software for 2 years now, see my profile on 
   https://www.ohloh.net/accounts/antduprat[Ohloh]
 * Has done a lot of functional tasks on ERPs during 12 years, +
