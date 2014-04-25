@@ -1,10 +1,10 @@
-== Opush team
+== Openpaas team
 
 We are all located at Paris, near La Defense : 
 
 * link:@s_lemaistre.adoc[@slemaistre]
-* https://twitter.com/chamerling[@chamerling]
-* https://twitter.com/rootsikal[@mbailly] & https://github.com/MichaelBailly[@mbailly_gihub] 
+* https://twitter.com/chamerling[@chamerling] & https://github.com/chamerling[@chamerling_github] 
+* https://twitter.com/rootsikal[@mbailly] & https://github.com/MichaelBailly[@mbailly_github] 
 * [@ldubois]
 * https://github.com/rpignolet[@rpignolet]
 * https://twitter.com/tmorsellino[@tmorselino] & https://github.com/th0masm[@tmorselino_github]
