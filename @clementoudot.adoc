@@ -26,7 +26,7 @@ I join most of events related to Free Software in France and sometimes in other 
 You can find me on all (more or less) evil social networks:
 
 * https://twitter.com/clementoudot[Twitter]
-* https://www.google.com/+ClémentOUDOT[Google+]
+* https://www.google.com/`+ClémentOUDOT`[Google+]
 * https://www.ohloh.net/accounts/coudot[Ohloh]
 * http://fr.linkedin.com/in/clementoudot/[LinkedIn]
 * http://lanyrd.com/profile/clementoudot/[Lanyrd]
