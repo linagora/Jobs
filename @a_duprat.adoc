@@ -1,0 +1,30 @@
+Antoine Duprat
+===============
+
+== Developper @ Linagora
+
+* Developper in https://github.com/linagora/opush[Opush] team
+* Working on free software for 2 years now, see my profile on 
+  https://www.ohloh.net/accounts/antduprat[Ohloh]
+* Has done a lot of functional tasks on ERPs during 12 years, +
+  but focuses on development since 2 years.
+
+== No bullshit
+
+Everything I write can be checked on the Internet because Free Software is about
+openness
+
+To see what my job looks like, have a look at link:Opush_Team.adoc[Opush Team]
+
+== Meet me
+
+You can add a line to the list bellow to ask for a meeting and do a Pull Request!
+
+* From @BobaFett: can we meet after the conference "How to make better decisions" ?
+
+
+== Social
+
+* https://twitter.com/antduprat[Twitter]
+* https://github.com/aduprat[Github]
+

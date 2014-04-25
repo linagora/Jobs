@@ -2,7 +2,7 @@
 
 We are all located at Lyon, near Part-Dieu : 
 
-* link:@antduprat.adoc[@antduprat]
+* link:@a_duprat.adoc[@a_duprat]
 * link:@m_baechler.adoc[@m_baechler]
 * link:@s_colson.adoc[@s_colson]
 * link:@t_hilaire.adoc[@t_hilaire]
