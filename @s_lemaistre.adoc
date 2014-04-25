@@ -1,0 +1,19 @@
+Stéphen Le Maistre
+==================
+
+== Software developer @ Linagora
+
+ * Worked for 2 and a half year on https://github.com/linagora/obm[OBM] and now working on a brand new open source project: link:Openpaas_team.adoc[Openpaas Team]
+ * Working on free software for 3 years now, see my profile on https://www.ohloh.net/accounts/slemaistre[Ohloh]
+ * Agilist and code langage digger.
+
+== Meet me
+
+Just add a line below to ask for a little chat and do a Pull request !
+
+  * From @BadassDude : Hey what's up ! Let's talk about 'How should I manage hundreds of thousands of legacy codes'.
+
+== Social
+
+ * https://twitter.com/slemaistre86[Twitter]
+ * https://github.com/Eriflow[Github]
