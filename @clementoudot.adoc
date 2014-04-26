@@ -1,0 +1,33 @@
+Clément Oudot
+=============
+
+== Identity Management Expert @ Linagora
+
+* Manage http://www.linid.org[LinID] team
+* Leader of http://www.lemonldap-ng.org[LemonLDAP::NG], a WebSSO, Access Control and Identity Federation free software
+* Leader of http://www.ltb-project.org[LDAP Tool Box Project], a collection of free softwares for LDAP administrators, including packages for OpenLDAP, self service password Web application, monitoring scripts, ...
+* Contributor on http://www.lsc-project.org[LDAP Synchronization Connector Project], a powerful engine to sync identities between databases, flat files and LDAP directories
+* http://www.openldap.org[OpenLDAP] advanced user
+* Member of http://www.ldapgtf.org[LDAP Get Together France] team
+* Staff of http://www.ldapcon.org[LDAPCon 2013] conference, gathering LDAP geeks from all over the world
+
+My goal is to make LDAP as sexy as [put your favorite technology here].
+
+== Meet me
+
+I join most of events related to Free Software in France and sometimes in other countries. Please add your name below with a pull request if you want to get in touch, for example:
+
+* From @sqlfan: I hate LDAP, how can you work on it since ten years?
+* From @jsaddict: You code LemonLDAP::NG in Perl, what's wrong with you?
+* From @yourwife: Please go back home now!
+
+== Social
+
+You can find me on all (more or less) evil social networks:
+
+* https://twitter.com/clementoudot[Twitter]
+* https://www.google.com/`+ClémentOUDOT`[Google+]
+* https://www.ohloh.net/accounts/coudot[Ohloh]
+* http://fr.linkedin.com/in/clementoudot/[LinkedIn]
+* http://lanyrd.com/profile/clementoudot/[Lanyrd]
+* https://github.com/coudot[Github]
