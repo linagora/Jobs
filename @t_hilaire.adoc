@@ -1,0 +1,29 @@
+Thomas Hilaire
+===============
+
+== Dev @ Linagora
+
+* Dev of https://github.com/linagora/OBM[OBM] team
+* Working on free software for 3 years now, see my profile on 
+  https://www.ohloh.net/accounts/Thomas_Hilaire[Ohloh]
+* Coder with TDD, Clean Code and every good practices that I can implement
+
+== Sharing
+I learnt my job and I continue to do it through people that share their knowledge. +
+My job allow me to contribute to this beatiful sharing and it is why I'm lov'in it! :)
+
+Take a look at my link:Opush_Team.adoc[Opush Team] page
+
+== Meet me
+
+You can add a line to the list bellow to ask for a meeting and do a Pull Request!
+
+* From @RichardStallman: Ohoh you do only free software at work? Tell me how can I join!
+
+
+== Social
+
+* https://twitter.com/t_hilaire[@t_hilaire]
+* https://github.com/thomas-hilaire[github]
+* https://www.ohloh.net/accounts/Thomas_Hilaire[Ohloh]
+
