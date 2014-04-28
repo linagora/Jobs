@@ -1,0 +1,26 @@
+Raphaël Ouazana
+===============
+
+== LDAP Architect and developer @ Linagora
+
+* Main developer of http://www.linid.org[LinID]
+* Maintainer on http://www.lsc-project.org[LDAP Synchronization Connector Project], a powerful engine to sync identities between databases, flat files and LDAP directories
+* Creator of http://loadtesting.sourceforge.net[Charge], an LDAP load testing tool
+* Contributor on http://www.openldap.org[OpenLDAP]
+* Member of http://www.ldapgtf.org[LDAP Get Together France] team
+* Developer on other Linagora products: http://www.linshare.org[LinShare], http://obm.org[OBM]
+
+See my full profile on http://www.ohloh.net/accounts/rouazana[Ohloh]
+
+== Meet me
+
+You can add a line to the list bellow to ask for a meeting and do a Pull Request!
+
+* From @JohnDoe: How can you create loadtesting tools in C and develop in Java?
+
+== Social
+
+* https://twitter.com/rouazana[@rouazana]
+* https://github.com/rouazana[GitHub]
+* https://www.ohloh.net/accounts/rouazana[Ohloh]
+
