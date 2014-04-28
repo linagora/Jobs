@@ -25,6 +25,6 @@ You can add a line to the list bellow to ask for a meeting and do a Pull Request
 
 == Social
 
-* @m_baechler
-* github.com/mbaechler
+* https://twitter.com/m_baechler[@m_baechler]
+* https://github.com/mbaechler[github]
 
