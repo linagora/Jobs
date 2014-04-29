@@ -1,0 +1,26 @@
+Thomas Sarboni
+==============
+
+== Former OBM Support Leader @ Linagora
+
+== DevOps profile, IVVQ oriented
+
+* Python ocasionnal developper
+* Flask enthousiast
+* Archlinux user and packager
+* APRIL member since years
+
+Actually student at ENSIIE engirneering school.
+
+== Meet me
+
+Wanna talk to me ? Leave me pull request.
+
+I'll read it event if it's not in Python.
+
+== Social
+
+Here, is the better place to find me.
+
+* https://github.com/max-k[Github]
+
